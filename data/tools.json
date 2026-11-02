@@ -4142,5 +4142,20 @@
     "description": "Native macOS control panel for the Android Emulator and phones, with a built-in MCP server so AI agents can drive the emulator.",
     "license": "MIT",
     "added": "2026-10-31"
+  },
+  {
+    "name": "HOL Guard",
+    "repo": "hashgraph-online/hol-guard",
+    "homepage": "https://hol.org/guard",
+    "category": "security-privacy",
+    "description": "Local-first security for AI agents that checks commands, package installs, and MCP tool calls against policy.",
+    "license": "Apache-2.0",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://github.com/hashgraph-online/hol-guard/blob/main/docs/guard/get-started.md"
+      }
+    ],
+    "added": "2026-11-02"
   }
 ]
