@@ -4211,5 +4211,20 @@
     "description": "Bash script that benchmarks a Linux server's CPU, memory and 4k random disk IOPS in about a minute with sysbench and fio.",
     "license": "MIT",
     "added": "2026-11-06"
+  },
+  {
+    "name": "HOL Guard",
+    "repo": "hashgraph-online/hol-guard",
+    "homepage": "https://hol.org/guard",
+    "category": "security-privacy",
+    "description": "Checks supported AI coding-agent tool actions against local policy and can require approval before execution.",
+    "license": "Apache-2.0",
+    "links": [
+      {
+        "label": "docs",
+        "url": "https://github.com/hashgraph-online/hol-guard/blob/main/docs/guard/get-started.md"
+      }
+    ],
+    "added": "2026-11-15"
   }
 ]
